@@ -12,7 +12,7 @@ tags:
 
 《漠河舞厅》这首歌在被人们逐渐熟知前，演唱者柳爽以张德全老人角度写了一篇《再见了晚星》。全文以张德全老人的口吻写给已故妻子，故事讲述了1987年举国震惊的“五·六”漠河特大火灾中，他的爱妻不幸丧生火海，此后30余年，他带着对亡妻的思恋，孤身一人，终身未娶。感人的故事，动人的旋律，致敬真挚忠诚的爱情。
 
-<center>![](/assets/img/posts/zaijian.jpg)</center>
+<center><img src="/assets/img/posts/zaijian.jpg" /></center>
 <center>《再见了晚星》</center>
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="100" src="https://music.163.com/outchain/player?type=2&amp;id=1430319727&amp;auto=1&amp;height=100"></iframe>
@@ -131,12 +131,12 @@ tags:
 
 再见了晚星。
 
-**<div align="right">张氏</div>**
+**<span align="right">张氏</span>**
 
-**<div align="right">2019年12月寒冬</div>**
+**<span align="right">2019年12月寒冬</span>**
 
 <center><iframe width="700" height="400" src="https://www.yyinn.net/wp-content/uploads/2021/11/mohewt.mp4?_=1" align="center" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > 图中位于舞厅中央独自舞蹈的老人，便是《漠河舞厅》背景故事中的原型人物张德全（同音）老人，在1987年举国震惊的“五·六”漠河特大火灾中，他的爱妻不幸丧生火海，往后30余年，老人未再婚，二人生前也未育有子女。视频拍摄时，我正在他的旁边跟随他舞蹈，老人告诉我，她的妻子生前很爱跳舞，他们常常在旧仓库里点起灯一起学习舞蹈。偶然得知了这个故事的梗概，在征得本人同意后，返京创作了《漠河舞厅》一曲，并冒昧地使用第一人称写下这篇《再见了晚星》。
 
-**<div align="right">谨以此歌献给所有因为不幸而逝去的生命。</div>**
+**<span align="right">谨以此歌献给所有因为不幸而逝去的生命。</span>**
