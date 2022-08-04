@@ -97,7 +97,7 @@ tags:
 
 1987年举国震惊的大兴安岭特大火灾，毫无预兆地在傍晚席卷了整个漠河县，就在我执意随工作队从加格达奇动身出发后的第14天，新闻报道称，有人称它为“天火”，因为从来没有见过火势夹杂着9级的狂风，一团一团的烈焰呼啸从天降下，迅猛的火势几乎只用了短短半天，将漠河县城烧了个精光。
 
-这场1987“五，六”特大火灾，共造成101万公顷森林受害，5万多人受灾，211人丧生……
+这场1987“五·六”特大火灾，共造成101万公顷森林受害，5万多人受灾，211人丧生……
 
 而这211人其中，包括你，我可怜的妻子，康氏。
 
@@ -131,12 +131,12 @@ tags:
 
 再见了晚星。
 
-**<span align="right">张氏</span>**
+**<span style="float: right;">张氏</span>**
 
-**<span align="right">2019年12月寒冬</span>**
+**<span style="float: right;">2019年12月寒冬</span>**
 
 <center><iframe width="700" height="400" src="https://www.yyinn.net/wp-content/uploads/2021/11/mohewt.mp4?_=1" align="center" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > 图中位于舞厅中央独自舞蹈的老人，便是《漠河舞厅》背景故事中的原型人物张德全（同音）老人，在1987年举国震惊的“五·六”漠河特大火灾中，他的爱妻不幸丧生火海，往后30余年，老人未再婚，二人生前也未育有子女。视频拍摄时，我正在他的旁边跟随他舞蹈，老人告诉我，她的妻子生前很爱跳舞，他们常常在旧仓库里点起灯一起学习舞蹈。偶然得知了这个故事的梗概，在征得本人同意后，返京创作了《漠河舞厅》一曲，并冒昧地使用第一人称写下这篇《再见了晚星》。
 
-**<span align="right">谨以此歌献给所有因为不幸而逝去的生命。</span>**
+**<span style="float: right;">谨以此歌献给所有因为不幸而逝去的生命。</span>**
