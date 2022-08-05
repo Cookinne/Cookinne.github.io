@@ -142,7 +142,7 @@ tags:
 <br />
 
 
-<center><iframe width="700" height="400" src="https://www.yyinn.net/wp-content/uploads/2021/11/mohewt.mp4?_=1" align="center" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="100%" src="https://www.yyinn.net/wp-content/uploads/2021/11/mohewt.mp4?_=1" align="center" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > 图中位于舞厅中央独自舞蹈的老人，便是《漠河舞厅》背景故事中的原型人物张德全（同音）老人，在1987年举国震惊的“五·六”漠河特大火灾中，他的爱妻不幸丧生火海，往后30余年，老人未再婚，二人生前也未育有子女。视频拍摄时，我正在他的旁边跟随他舞蹈，老人告诉我，她的妻子生前很爱跳舞，他们常常在旧仓库里点起灯一起学习舞蹈。偶然得知了这个故事的梗概，在征得本人同意后，返京创作了《漠河舞厅》一曲，并冒昧地使用第一人称写下这篇《再见了晚星》。
 
