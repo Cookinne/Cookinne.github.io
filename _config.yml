@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'Cookinne'
-description: '你听过针落在地上的声音吗'
+description: '青山一片云雾,心安即归处'
 keyword: 'Cookinne'
 url: 'https://Cookinne.github.io/' # your host
 baseurl: ''
@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: 'Cookinne'
 nickname: 'Cookinne'
-bio: '古之立大事者，不惟有超世之才，亦必有坚忍不拔之志'
+bio: '青山一片云雾,心安即归处'
 avatar: '/assets/img/profile.jpg'
 
 # Search
